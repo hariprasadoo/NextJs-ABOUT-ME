@@ -14,7 +14,7 @@ const Sidebar = ({ data }) => {
 					width={200}
 					height={200}
 					className='rounded-full h-full mb-0 mt-0'
-					src='/images/julian-wan-WNoLnJo7tS8-unsplash.jpg'
+					src='/images/hariprasadoo.jpg'
 					alt='julian-wan-WNoLnJo7tS8-unsplash.jpg'
 					aria-label='julian-wan-WNoLnJo7tS8-unsplash.jpg'
 				/>
